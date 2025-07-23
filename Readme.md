@@ -73,9 +73,9 @@ npm start
 cd ../client
 npm start
 🌍 Live Demo
-Frontend: https://jobhunt-client.vercel.app
+Frontend: 
 
-Backend: https://jobhunt-api.onrender.com
+Backend: 
 
 👨‍💻 Author
 Madhu Ranjan
